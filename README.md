@@ -32,7 +32,7 @@ GIF created with Kap
 ## App Brainstorming (Step 4)
 
 1) Safari:
-   - Data is synced between my ios and Mac 
+   - Data is synced between my ios devices and Mac 
    - Passwords are automatically autofilled 
    
 2) Instagram:
