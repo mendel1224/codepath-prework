@@ -48,7 +48,7 @@ GIF created with Kap
    - Has podcasts and comedy in addition to music
    - Able to organize my music into playlists
 
-I would like to create an app to help Amazon sellers and sellers on other online marketplace such as Ebay,Stock X, and others. This app would be able to scan the bar code of a product or have a product lookup that would tell the user if there is an arbitrage oppurtunity on those marketplaces. Additonally, the app could be geared to new sellers by recommending if the item would be a good product for them based on some criteria. Criteria could be user defined, or include sales volume, profit margin, how many other sellers are trying to sell the product, etc.
+I would like to create an app to help Amazon sellers and sellers on other online marketplace such as Ebay, Stock X, and others. This app would be able to scan the bar code of a product or have a product lookup that would tell the user if there is an arbitrage oppurtunity on those marketplaces. Additonally, the app could be geared to new sellers by recommending if the item would be a good product for them based on some criteria. Criteria could be user defined, or include sales volume, profit margin, how many other sellers are trying to sell the product, etc.
 
 ## Notes
 
