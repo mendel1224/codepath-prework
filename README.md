@@ -40,8 +40,8 @@ GIF created with Kap
    - Ability to find other accounts that post interesting or funnt content
    
 3) Youtube
-  - Generally suggests content I find interesting
-  - Entertainment without a monthly subscription fee
+   - Generally suggests content I find interesting
+   - Entertainment without a monthly subscription fee
   
 4) Spotify 
   - Easily able to find all of my favorite music and artists
