@@ -1,6 +1,6 @@
 # codepath-prework
 Codepath prework Project
-# Prework - *Name of App Here*
+# Prework - RandomColor
 
 Submitted by: Mendel Shifrin
 
