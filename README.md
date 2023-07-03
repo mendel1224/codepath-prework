@@ -20,10 +20,10 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 https://imgur.com/a/cj5ml9G.gif
 
-<img src='https://imgur.com/a/cj5ml9G.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![]https://imgur.com/a/cj5ml9G.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  dfdfd
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
